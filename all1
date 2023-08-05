@@ -1,4 +1,10 @@
 #EXTM3U 
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
+
+
+#EXTINF:-1 tvg-name="Awake: A Vida Por um Fio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLNJy3OHyjlbdpBxPAbjpRU0Gsy.jpg" group-title="Filmes | Acao",Awake: A Vida Por um Fio
+http://acsc.cc:80/movie/MATHEUSGOIS/Mg2021/189310.mp4
 #EXTINF:-1 tvg-name="Eu A Patroa E As Criancas S05E26" tvg-logo="http://acsa.ws:80/images/xuhfWK2MsOfSGcVU8FSvjUZ49Ga_small.jpg" group-title="EU A PATROA E AS CRIANÇAS",Eu A Patroa E As Criancas S05E26
 http://acsc.cc:80/series/MATHEUSGOIS/Mg2021/13265.mp4
 #EXTINF:-1 tvg-name="Eu A Patroa E As Criancas S05E25" tvg-logo="http://acsa.ws:80/images/xuhfWK2MsOfSGcVU8FSvjUZ49Ga_small.jpg" group-title="EU A PATROA E AS CRIANÇAS",Eu A Patroa E As Criancas S05E25
